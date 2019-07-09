@@ -1,5 +1,9 @@
 ## header 2
+In this lab, you will be running two machines (Linux and Windows) on Virtualbox. 
+Both are connected via a network bridge, so they are part of the internal network.
+Both machines have Netcat installed.
 
+On the Windows machine, we created a simple text file that we want to send to the Linux machine
 ```
 The appropriate syntax would be:
 nc target_ip port < file.txt
@@ -29,3 +33,5 @@ def main():
 ###    -lvp 1234 (Listen Verbosely on Port 1234)
 ###    > zeroday.txt (output > any data transferred to a file called zeroday.txt)
 
+
+![Untitled](https://user-images.githubusercontent.com/47218652/60913370-d833d300-a24c-11e9-9566-0ade3e8d6d44.png)
