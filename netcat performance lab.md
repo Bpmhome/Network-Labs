@@ -1,10 +1,11 @@
 ## header 2
 
 ```
-nc 192.168.0.114 1234 < zero-day.txt
+The appropriate syntax would be:
+nc target_ip port < file.txt
+So in this scenario we would be using:
+>nc 192.168.0.114 1234 < zero-day.txt
 ```
-
-a;lfjeoijaeoifejje;f
 
 > AJF;EOIAJJA;OGJRO
 
