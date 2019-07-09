@@ -18,3 +18,5 @@ FTP is a very unsafe protocol, because it sends passwords over the network witho
 In Wireshark, at the top, in the "Apply a display filter" box, type ftp and press the Enter key.
 
 Wireshark filters the packets, showing only the packets using File Transfer Protocol. On the right side, you can see the login process for a user named "john". Find John's password, which is covered by a gray box in the image below. 
+
+![123p6wire2](https://user-images.githubusercontent.com/47218652/60917439-960f8f00-a256-11e9-97b1-c4975bb0f9de.png)
