@@ -25,3 +25,9 @@ What is the Internet address of your computer?
 To do so, select Printfrom the Wireshark Filecommand menu, and select 
 the“Selected Packet Only”and “Print as displayed”radial buttons, and then click OK.
 ```
+1.Start up your favorite web browser, which will display your selected homepage.
+
+2.Start up the Wireshark software.  You will initially see a window similar to that shown in Figure 2.
+Wireshark has not yet begun capturing packets.
+
+![Untitled](https://user-images.githubusercontent.com/47218652/60916589-695a7800-a254-11e9-8517-edd0717905a1.png)
