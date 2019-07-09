@@ -22,3 +22,10 @@ def main():
 
 
 ![Untitled](https://user-images.githubusercontent.com/47218652/60912573-45466900-a24b-11e9-8f5b-649359890ec7.png)
+
+
+
+###    nc (run Netcat)
+###    -lvp 1234 (Listen Verbosely on Port 1234)
+###    > zeroday.txt (output > any data transferred to a file called zeroday.txt)
+
