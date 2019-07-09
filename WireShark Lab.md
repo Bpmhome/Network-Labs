@@ -1,7 +1,9 @@
 ## WireShark
 ### What to hand in
 ```
-The goal of this first lab was primarily to introduce you to Wireshark. The following questions will demonstrate that you’ve been able to get Wireshark up and running, and have explored some of its capabilities. Answer the following questions, based on your Wireshark experimentation:
+The goal of this first lab was primarily to introduce you to Wireshark. The following questions will demonstrate that you’ve 
+been able to get Wireshark up and running, and have explored some of its capabilities. Answer the following questions, based 
+on your Wireshark experimentation:
 1.List 3 different protocolsthat appear in the protocol column in the unfiltered packet-listing window in step 7 above.
 2.How long did it take from when the HTTP GET message was sent until the HTTP OK reply was received? (By default, the value of 
 the Time column in the packet-listing window is the amount of time, in seconds, since Wireshark tracing began.  To display the 
