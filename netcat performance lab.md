@@ -8,7 +8,7 @@ So in this scenario we would be using:
 ```
 ![Untitled](https://user-images.githubusercontent.com/47218652/60911957-eaf8d880-a249-11e9-9d01-e43961cf8462.png)
 
-> AJF;EOIAJJA;OGJRO
+## The syntax used was nc target_ip port < file.txt
 
 ```Python
 
